@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 84f9c7400aed7504c8dea3a5b4b3f17e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4113103719778943070
+    second: Walking 3_0
+  - first:
+      213: -437774854428922368
+    second: Walking 3_1
+  - first:
+      213: 8851773723362288972
+    second: Walking 3_2
+  - first:
+      213: 8855799168407724275
+    second: Walking 3_3
+  - first:
+      213: 8023424898369638070
+    second: Walking 3_4
+  - first:
+      213: -6630395372132655677
+    second: Walking 3_5
+  - first:
+      213: -2213243572875995104
+    second: Walking 3_6
+  - first:
+      213: -5854104111150522081
+    second: Walking 3_7
+  - first:
+      213: -5081765576766068545
+    second: Walking 3_8
+  - first:
+      213: -4572199921066948120
+    second: Walking 3_9
+  - first:
+      213: 3066986342794982317
+    second: Walking 3_10
+  - first:
+      213: 813123879222329434
+    second: Walking 3_11
+  - first:
+      213: 8444244267069537602
+    second: Walking 3_12
+  - first:
+      213: -5529339025520047075
+    second: Walking 3_13
+  - first:
+      213: -277056270300537012
+    second: Walking 3_14
+  - first:
+      213: -1188534630503620160
+    second: Walking 3_15
+  - first:
+      213: 2026352580949355213
+    second: Walking 3_16
+  - first:
+      213: 4862769527441692648
+    second: Walking 3_17
+  - first:
+      213: 6410991634709793127
+    second: Walking 3_18
+  - first:
+      213: -8614671067191578282
+    second: Walking 3_19
+  - first:
+      213: -625663323895147926
+    second: Walking 3_20
+  - first:
+      213: -4874305047606493946
+    second: Walking 3_21
+  - first:
+      213: -1870341268761182619
+    second: Walking 3_22
+  - first:
+      213: 7369450028385469983
+    second: Walking 3_23
+  - first:
+      213: 8722955946696018770
+    second: Walking 3_24
+  - first:
+      213: 1380620459005251089
+    second: Walking 3_25
+  - first:
+      213: 5928648220368667321
+    second: Walking 3_26
+  - first:
+      213: -6592818109516288936
+    second: Walking 3_27
+  - first:
+      213: -8970870219916281299
+    second: Walking 3_28
+  - first:
+      213: -5449280441983741007
+    second: Walking 3_29
+  - first:
+      213: 8424328158538522531
+    second: Walking 3_30
+  - first:
+      213: 7540548441207016656
+    second: Walking 3_31
+  - first:
+      213: -6113458756992756315
+    second: Walking 3_32
+  - first:
+      213: 4141072711694175421
+    second: Walking 3_33
+  - first:
+      213: -1091918797699908861
+    second: Walking 3_34
+  - first:
+      213: -5816922159902040725
+    second: Walking 3_35
+  - first:
+      213: -5113850816948015487
+    second: Walking 3_36
+  - first:
+      213: 3260976830497931413
+    second: Walking 3_37
+  - first:
+      213: -8075117908511728200
+    second: Walking 3_38
+  - first:
+      213: 4681165554709505721
+    second: Walking 3_39
+  - first:
+      213: 5965053436052928590
+    second: Walking 3_40
+  - first:
+      213: 7469808614774558800
+    second: Walking 3_41
+  - first:
+      213: -6757674496214755052
+    second: Walking 3_42
+  - first:
+      213: -3615689309648516654
+    second: Walking 3_43
+  - first:
+      213: 2467431678240186331
+    second: Walking 3_44
+  - first:
+      213: -8474286476874334275
+    second: Walking 3_45
+  - first:
+      213: 8856101069769154012
+    second: Walking 3_46
+  - first:
+      213: -2656178057331771652
+    second: Walking 3_47
+  - first:
+      213: 9036590672780708177
+    second: Walking 3_48
+  - first:
+      213: -2554430099130932698
+    second: Walking 3_49
+  - first:
+      213: -8763164929707289620
+    second: Walking 3_50
+  - first:
+      213: -2473452911088980302
+    second: Walking 3_51
+  - first:
+      213: 6587717586028702852
+    second: Walking 3_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking 3_0
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1957
+        width: 206
+        height: 787
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5003cd7a0ea41930800000000000000
+      internalID: 4113103719778943070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_1
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1976
+        width: 286
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e6a2ed616bce9f0800000000000000
+      internalID: -437774854428922368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_2
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1973
+        width: 282
+        height: 746
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45652d7d41d7da70800000000000000
+      internalID: 8851773723362288972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_3
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1973
+        width: 279
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f064237c6e16ea70800000000000000
+      internalID: 8855799168407724275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_4
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 1972
+        width: 282
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec8556f6ee85f60800000000000000
+      internalID: 8023424898369638070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_5
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1975
+        width: 283
+        height: 744
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd93a3d98a1cf3a0800000000000000
+      internalID: -6630395372132655677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_6
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 1973
+        width: 286
+        height: 744
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0285f4d52baf841e0800000000000000
+      internalID: -2213243572875995104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_7
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1976
+        width: 287
+        height: 743
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1128b8c35b02cea0800000000000000
+      internalID: -5854104111150522081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_8
+      rect:
+        serializedVersion: 2
+        x: 3826
+        y: 1975
+        width: 280
+        height: 744
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ec0dd121f979b0800000000000000
+      internalID: -5081765576766068545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_9
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 1968
+        width: 272
+        height: 749
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e94cb675684c80c0800000000000000
+      internalID: -4572199921066948120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_10
+      rect:
+        serializedVersion: 2
+        x: 4581
+        y: 1968
+        width: 263
+        height: 751
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3f44544df109a20800000000000000
+      internalID: 3066986342794982317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_11
+      rect:
+        serializedVersion: 2
+        x: 4946
+        y: 1966
+        width: 254
+        height: 755
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a504f6b2cdbc84b00800000000000000
+      internalID: 813123879222329434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_12
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 1963
+        width: 244
+        height: 756
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dfe4fdb6bff2570800000000000000
+      internalID: 8444244267069537602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_13
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 1960
+        width: 234
+        height: 758
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c4c25b377d343b0800000000000000
+      internalID: -5529339025520047075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_14
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 1962
+        width: 224
+        height: 757
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f11f14ac2b72cf0800000000000000
+      internalID: -277056270300537012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_15
+      rect:
+        serializedVersion: 2
+        x: 6331
+        y: 1958
+        width: 213
+        height: 758
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1e499fc0a718fe0800000000000000
+      internalID: -1188534630503620160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_16
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 1955
+        width: 213
+        height: 759
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaae21bfec0f1c10800000000000000
+      internalID: 2026352580949355213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_17
+      rect:
+        serializedVersion: 2
+        x: 6975
+        y: 1955
+        width: 214
+        height: 762
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e791c30f170c7340800000000000000
+      internalID: 4862769527441692648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_18
+      rect:
+        serializedVersion: 2
+        x: 7291
+        y: 1960
+        width: 218
+        height: 763
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769c0e4ccea68f850800000000000000
+      internalID: 6410991634709793127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_19
+      rect:
+        serializedVersion: 2
+        x: 7600
+        y: 1960
+        width: 225
+        height: 764
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f53f8e4a827880800000000000000
+      internalID: -8614671067191578282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_20
+      rect:
+        serializedVersion: 2
+        x: 7916
+        y: 1958
+        width: 231
+        height: 764
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625d3695823157f0800000000000000
+      internalID: -625663323895147926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_21
+      rect:
+        serializedVersion: 2
+        x: 8202
+        y: 1959
+        width: 239
+        height: 760
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d7586626dfa5cb0800000000000000
+      internalID: -4874305047606493946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1090
+        width: 247
+        height: 757
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e7cba86863b06e0800000000000000
+      internalID: -1870341268761182619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_23
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1087
+        width: 254
+        height: 754
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1688eb71cb854660800000000000000
+      internalID: 7369450028385469983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_24
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1088
+        width: 260
+        height: 750
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8232a73a2e0970800000000000000
+      internalID: 8722955946696018770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_25
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1092
+        width: 278
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e05ac1ef2f82310800000000000000
+      internalID: 1380620459005251089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_26
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1094
+        width: 297
+        height: 743
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b28355252ac64250800000000000000
+      internalID: 5928648220368667321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_27
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 1090
+        width: 296
+        height: 744
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ce4811cda9184a0800000000000000
+      internalID: -6592818109516288936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_28
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 1094
+        width: 292
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a72cf8011118380800000000000000
+      internalID: -8970870219916281299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_29
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1090
+        width: 287
+        height: 744
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3531e3f444064b0800000000000000
+      internalID: -5449280441983741007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_30
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 1093
+        width: 285
+        height: 744
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af520183d939e470800000000000000
+      internalID: 8424328158538522531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_31
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 1093
+        width: 287
+        height: 743
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc05c11bd865a860800000000000000
+      internalID: 7540548441207016656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_32
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 1093
+        width: 289
+        height: 741
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a51278a6a1a82ba0800000000000000
+      internalID: -6113458756992756315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_33
+      rect:
+        serializedVersion: 2
+        x: 4915
+        y: 1093
+        width: 286
+        height: 743
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc4891e0bb087930800000000000000
+      internalID: 4141072711694175421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_34
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 1094
+        width: 279
+        height: 746
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b768383a9b8d0f0800000000000000
+      internalID: -1091918797699908861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_35
+      rect:
+        serializedVersion: 2
+        x: 5637
+        y: 1094
+        width: 271
+        height: 750
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd0fc6d14264fa0800000000000000
+      internalID: -5816922159902040725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_36
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 1094
+        width: 261
+        height: 752
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee87db6c3f709b0800000000000000
+      internalID: -5113850816948015487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_37
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 1094
+        width: 253
+        height: 755
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590cb926621514d20800000000000000
+      internalID: 3260976830497931413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_38
+      rect:
+        serializedVersion: 2
+        x: 6764
+        y: 1094
+        width: 242
+        height: 756
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd53c7cb0b6fef80800000000000000
+      internalID: -8075117908511728200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_39
+      rect:
+        serializedVersion: 2
+        x: 7088
+        y: 1094
+        width: 233
+        height: 759
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b621472547d6f040800000000000000
+      internalID: 4681165554709505721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_40
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1096
+        width: 222
+        height: 758
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e487822fe7028c250800000000000000
+      internalID: 5965053436052928590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_41
+      rect:
+        serializedVersion: 2
+        x: 7829
+        y: 1098
+        width: 212
+        height: 758
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0505acfbb571aa760800000000000000
+      internalID: 7469808614774558800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_42
+      rect:
+        serializedVersion: 2
+        x: 8155
+        y: 1094
+        width: 214
+        height: 760
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419176179dae732a0800000000000000
+      internalID: -6757674496214755052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_43
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 214
+        width: 214
+        height: 761
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d90938cabd72ddc0800000000000000
+      internalID: -3615689309648516654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_44
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 222
+        width: 217
+        height: 762
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf5d01d9041e3220800000000000000
+      internalID: 2467431678240186331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_45
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 224
+        width: 225
+        height: 766
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf32051959456a80800000000000000
+      internalID: -8474286476874334275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_46
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 220
+        width: 231
+        height: 764
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd1c86500137ea70800000000000000
+      internalID: 8856101069769154012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_47
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 222
+        width: 239
+        height: 760
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf67d80412c532bd0800000000000000
+      internalID: -2656178057331771652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_48
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 225
+        width: 248
+        height: 758
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159c3b7c65b686d70800000000000000
+      internalID: 9036590672780708177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_49
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 227
+        width: 254
+        height: 755
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6222cb9db57dc8cd0800000000000000
+      internalID: -2554430099130932698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_50
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 227
+        width: 260
+        height: 750
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d2a8fcebf26680800000000000000
+      internalID: -8763164929707289620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_51
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 232
+        width: 275
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea2e9aea78cadd0800000000000000
+      internalID: -2473452911088980302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking 3_52
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 235
+        width: 287
+        height: 745
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca5d3cd364c6b50800000000000000
+      internalID: 6587717586028702852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

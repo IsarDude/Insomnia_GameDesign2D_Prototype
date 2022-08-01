@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 28ded7f3b2f6ef144969eadba28925b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -309459452766167434
+    second: Crying_0
+  - first:
+      213: -2389506779226005789
+    second: Crying_1
+  - first:
+      213: -4629192383373612381
+    second: Crying_2
+  - first:
+      213: -1686459251174194526
+    second: Crying_3
+  - first:
+      213: 3191938202519685810
+    second: Crying_4
+  - first:
+      213: 75369996680179525
+    second: Crying_5
+  - first:
+      213: -7055949063210311521
+    second: Crying_6
+  - first:
+      213: -8333431995671109337
+    second: Crying_7
+  - first:
+      213: -1365176911518742676
+    second: Crying_8
+  - first:
+      213: 8477546789641261668
+    second: Crying_9
+  - first:
+      213: 1094478388600639341
+    second: Crying_10
+  - first:
+      213: 6675426665701015916
+    second: Crying_11
+  - first:
+      213: -8317739643376255612
+    second: Crying_12
+  - first:
+      213: -7965482430239353515
+    second: Crying_13
+  - first:
+      213: -3263996996861388981
+    second: Crying_14
+  - first:
+      213: 953106259350226217
+    second: Crying_15
+  - first:
+      213: -4519355802946687564
+    second: Crying_16
+  - first:
+      213: -6922435462322447700
+    second: Crying_17
+  - first:
+      213: 3094891516904007980
+    second: Crying_18
+  - first:
+      213: 3822001418272674847
+    second: Crying_19
+  - first:
+      213: -1568292194506493667
+    second: Crying_20
+  - first:
+      213: -7947224042212037343
+    second: Crying_21
+  - first:
+      213: 3856038938337469390
+    second: Crying_22
+  - first:
+      213: 5276392538799846572
+    second: Crying_23
+  - first:
+      213: -7243583630524154845
+    second: Crying_24
+  - first:
+      213: -1711131433137075041
+    second: Crying_25
+  - first:
+      213: 5861159620304808111
+    second: Crying_26
+  - first:
+      213: 4056972237001628491
+    second: Crying_27
+  - first:
+      213: -4385926062769539776
+    second: Crying_28
+  - first:
+      213: -9161391170368906525
+    second: Crying_29
+  - first:
+      213: 4403331177440764081
+    second: Crying_30
+  - first:
+      213: -2644925645739057735
+    second: Crying_31
+  - first:
+      213: -2461550751667436754
+    second: Crying_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crying_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1822
+        width: 206
+        height: 787
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e5c7d644494bbf0800000000000000
+      internalID: -309459452766167434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1815
+        width: 226
+        height: 794
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee98d39e34c6ded0800000000000000
+      internalID: -2389506779226005789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1819
+        width: 227
+        height: 790
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa6218cd0ec1cfb0800000000000000
+      internalID: -4629192383373612381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_3
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1821
+        width: 228
+        height: 788
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2479d0f3e7898e0800000000000000
+      internalID: -1686459251174194526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_4
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1811
+        width: 230
+        height: 798
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba4f2232ea0c4c20800000000000000
+      internalID: 3191938202519685810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_5
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1817
+        width: 236
+        height: 791
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f28d6dc94cb0100800000000000000
+      internalID: 75369996680179525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_6
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1806
+        width: 230
+        height: 801
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90691606bb341e90800000000000000
+      internalID: -7055949063210311521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_7
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1792
+        width: 234
+        height: 810
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721262a90c3b95c80800000000000000
+      internalID: -8333431995671109337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_8
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1797
+        width: 294
+        height: 792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c674c5df4daed0de0800000000000000
+      internalID: -1365176911518742676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_9
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 1804
+        width: 331
+        height: 752
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621253a3eb46a570800000000000000
+      internalID: 8477546789641261668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_10
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1794
+        width: 341
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f02eeab4e503f00800000000000000
+      internalID: 1094478388600639341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_11
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 1796
+        width: 388
+        height: 699
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61874d3f21e3ac50800000000000000
+      internalID: 6675426665701015916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_12
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 1819
+        width: 425
+        height: 674
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dbf561dd3719c80800000000000000
+      internalID: -8317739643376255612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_13
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 1818
+        width: 446
+        height: 673
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555d7f0ceebe47190800000000000000
+      internalID: -7965482430239353515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_14
+      rect:
+        serializedVersion: 2
+        x: 5053
+        y: 1822
+        width: 497
+        height: 654
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4792265604f3b2d0800000000000000
+      internalID: -3263996996861388981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_15
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1823
+        width: 532
+        height: 625
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92585c5d71d1a3d00800000000000000
+      internalID: 953106259350226217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_16
+      rect:
+        serializedVersion: 2
+        x: 6232
+        y: 1823
+        width: 575
+        height: 576
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd23cf77d50841c0800000000000000
+      internalID: -4519355802946687564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_17
+      rect:
+        serializedVersion: 2
+        x: 6866
+        y: 1825
+        width: 582
+        height: 497
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa14b7af919eef90800000000000000
+      internalID: -6922435462322447700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 947
+        width: 630
+        height: 424
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29ee6bef6343fa20800000000000000
+      internalID: 3094891516904007980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_19
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 948
+        width: 652
+        height: 396
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149e234a0a7a0530800000000000000
+      internalID: 3822001418272674847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_20
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 943
+        width: 689
+        height: 495
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113c6aee8e4c3ae0800000000000000
+      internalID: -1568292194506493667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_21
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 941
+        width: 675
+        height: 534
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12de18df6d9c5b190800000000000000
+      internalID: -7947224042212037343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_22
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 943
+        width: 686
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3eda7fbf6638530800000000000000
+      internalID: 3856038938337469390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_23
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 939
+        width: 631
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4bfaafe03893940800000000000000
+      internalID: 5276392538799846572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_24
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 942
+        width: 557
+        height: 668
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf5c1f01f997b90800000000000000
+      internalID: -7243583630524154845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_25
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 936
+        width: 530
+        height: 726
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0cdb0707d048e0800000000000000
+      internalID: -1711131433137075041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_26
+      rect:
+        serializedVersion: 2
+        x: 5320
+        y: 942
+        width: 516
+        height: 698
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a124fe95075150800000000000000
+      internalID: 5861159620304808111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_27
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 938
+        width: 520
+        height: 701
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b9a1a31c24d4830800000000000000
+      internalID: 4056972237001628491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_28
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 942
+        width: 520
+        height: 702
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0457e79cb7f0223c0800000000000000
+      internalID: -4385926062769539776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_29
+      rect:
+        serializedVersion: 2
+        x: 7133
+        y: 940
+        width: 524
+        height: 708
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ead2c905433cd080800000000000000
+      internalID: -9161391170368906525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 41
+        width: 477
+        height: 644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b062c34066cb1d30800000000000000
+      internalID: 4403331177440764081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_31
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 42
+        width: 491
+        height: 663
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd176c73265b4bd0800000000000000
+      internalID: -2644925645739057735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crying_32
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 45
+        width: 491
+        height: 663
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23444a12a0d6ddd0800000000000000
+      internalID: -2461550751667436754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

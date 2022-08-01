@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: aa247c9220784e94f997e1c9651558fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4138830110965339101
+    second: Walking Anim AI v2_0
+  - first:
+      213: 1744215798841574099
+    second: Walking Anim AI v2_1
+  - first:
+      213: 127853430101150388
+    second: Walking Anim AI v2_2
+  - first:
+      213: -630394894554636164
+    second: Walking Anim AI v2_3
+  - first:
+      213: 3727397948573475917
+    second: Walking Anim AI v2_4
+  - first:
+      213: 7470460026344436766
+    second: Walking Anim AI v2_5
+  - first:
+      213: -506853600581184767
+    second: Walking Anim AI v2_6
+  - first:
+      213: 5822750392755210661
+    second: Walking Anim AI v2_7
+  - first:
+      213: 4352090332942170376
+    second: Walking Anim AI v2_8
+  - first:
+      213: 978868079235850267
+    second: Walking Anim AI v2_9
+  - first:
+      213: -6108908564592047757
+    second: Walking Anim AI v2_10
+  - first:
+      213: 5257861130866319852
+    second: Walking Anim AI v2_11
+  - first:
+      213: -3327612665712340438
+    second: Walking Anim AI v2_12
+  - first:
+      213: 7640745556188559416
+    second: Walking Anim AI v2_13
+  - first:
+      213: 764690638502582276
+    second: Walking Anim AI v2_14
+  - first:
+      213: -111237526611269584
+    second: Walking Anim AI v2_15
+  - first:
+      213: 2453592986991823343
+    second: Walking Anim AI v2_16
+  - first:
+      213: -7905981069588255385
+    second: Walking Anim AI v2_17
+  - first:
+      213: -320559872867596859
+    second: Walking Anim AI v2_18
+  - first:
+      213: 8441128016428035480
+    second: Walking Anim AI v2_19
+  - first:
+      213: 6100750910730972815
+    second: Walking Anim AI v2_20
+  - first:
+      213: 8082031191828209311
+    second: Walking Anim AI v2_21
+  - first:
+      213: -7630061271480544738
+    second: Walking Anim AI v2_22
+  - first:
+      213: 7298457463545221852
+    second: Walking Anim AI v2_23
+  - first:
+      213: 7509832222009147163
+    second: Walking Anim AI v2_24
+  - first:
+      213: -4014600645914417271
+    second: Walking Anim AI v2_25
+  - first:
+      213: -8414552201373027635
+    second: Walking Anim AI v2_26
+  - first:
+      213: -4031767683293555038
+    second: Walking Anim AI v2_27
+  - first:
+      213: 926359523419005257
+    second: Walking Anim AI v2_28
+  - first:
+      213: -6657701077510509531
+    second: Walking Anim AI v2_29
+  - first:
+      213: -990029464501416431
+    second: Walking Anim AI v2_30
+  - first:
+      213: -5107268597409167632
+    second: Walking Anim AI v2_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking Anim AI v2_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 917
+        width: 246
+        height: 789
+      alignment: 9
+      pivot: {x: 0.47074798, y: 0.013662282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd397c5be04107930800000000000000
+      internalID: 4138830110965339101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 913
+        width: 260
+        height: 795
+      alignment: 9
+      pivot: {x: 0.43799004, y: 0.024207618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2839d1703b43810800000000000000
+      internalID: 1744215798841574099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 898
+        width: 317
+        height: 808
+      alignment: 9
+      pivot: {x: 0.36566412, y: 0.027240338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba8e7c640a36c100800000000000000
+      internalID: 127853430101150388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_3
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 902
+        width: 291
+        height: 804
+      alignment: 9
+      pivot: {x: 0.4219006, y: 0.019166784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e9d1fe236047f0800000000000000
+      internalID: -630394894554636164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_4
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 909
+        width: 302
+        height: 799
+      alignment: 9
+      pivot: {x: 0.40664774, y: 0.021915289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44ed358fa06ab330800000000000000
+      internalID: 3727397948573475917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_5
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 909
+        width: 368
+        height: 797
+      alignment: 9
+      pivot: {x: 0.3936867, y: 0.02865857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14f30350d76ca760800000000000000
+      internalID: 7470460026344436766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_6
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 890
+        width: 350
+        height: 816
+      alignment: 9
+      pivot: {x: 0.42439523, y: 0.037512686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1031b30f55b47f8f0800000000000000
+      internalID: -506853600581184767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_7
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 902
+        width: 444
+        height: 803
+      alignment: 9
+      pivot: {x: 0.47148395, y: 0.027529364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c0f7c1a09ec050800000000000000
+      internalID: 5822750392755210661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_8
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 913
+        width: 402
+        height: 793
+      alignment: 9
+      pivot: {x: 0.51427734, y: 0.0447751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809fd65791bb56c30800000000000000
+      internalID: 4352090332942170376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_9
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 913
+        width: 440
+        height: 793
+      alignment: 9
+      pivot: {x: 0.48757878, y: 0.03897414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1062d0f453a59d00800000000000000
+      internalID: 978868079235850267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_10
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 906
+        width: 329
+        height: 800
+      alignment: 9
+      pivot: {x: 0.48189205, y: 0.01364357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3794622e60cc83ba0800000000000000
+      internalID: -6108908564592047757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_11
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 910
+        width: 290
+        height: 797
+      alignment: 9
+      pivot: {x: 0.42461443, y: 0.0124300355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1ee9757dca7f840800000000000000
+      internalID: 5257861130866319852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_12
+      rect:
+        serializedVersion: 2
+        x: 4959
+        y: 909
+        width: 279
+        height: 797
+      alignment: 9
+      pivot: {x: 0.47549492, y: 0.0065146796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22102639e1f1d1d0800000000000000
+      internalID: -3327612665712340438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_13
+      rect:
+        serializedVersion: 2
+        x: 5322
+        y: 906
+        width: 263
+        height: 802
+      alignment: 9
+      pivot: {x: 0.47193405, y: 0.019602254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83873c7d991690a60800000000000000
+      internalID: 7640745556188559416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_14
+      rect:
+        serializedVersion: 2
+        x: 5655
+        y: 906
+        width: 238
+        height: 800
+      alignment: 9
+      pivot: {x: 0.5071847, y: 0.022480011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408530f851abc9a00800000000000000
+      internalID: 764690638502582276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_15
+      rect:
+        serializedVersion: 2
+        x: 5966
+        y: 904
+        width: 221
+        height: 794
+      alignment: 9
+      pivot: {x: 0.4440929, y: 0.035508856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03864a41f0ec47ef0800000000000000
+      internalID: -111237526611269584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_16
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 906
+        width: 254
+        height: 798
+      alignment: 9
+      pivot: {x: 0.48041683, y: 0.02751546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9890d62d9ec0220800000000000000
+      internalID: 2453592986991823343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_17
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 917
+        width: 263
+        height: 788
+      alignment: 9
+      pivot: {x: 0.34163535, y: 0.011674601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76daa3ada10584290800000000000000
+      internalID: -7905981069588255385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_18
+      rect:
+        serializedVersion: 2
+        x: 7123
+        y: 906
+        width: 285
+        height: 798
+      alignment: 9
+      pivot: {x: 0.4193839, y: 0.011789958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c58b787e742d8bf0800000000000000
+      internalID: -320559872867596859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_19
+      rect:
+        serializedVersion: 2
+        x: 7451
+        y: 914
+        width: 332
+        height: 792
+      alignment: 9
+      pivot: {x: 0.46113458, y: 0.020190692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d6aca3539e42570800000000000000
+      internalID: 8441128016428035480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 33
+        width: 283
+        height: 798
+      alignment: 9
+      pivot: {x: 0.43284386, y: 0.007669119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ea24151a83aa450800000000000000
+      internalID: 6100750910730972815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 17
+        width: 364
+        height: 813
+      alignment: 9
+      pivot: {x: 0.49246803, y: 0.03338484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1c8c6c84292070800000000000000
+      internalID: 8082031191828209311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_22
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 36
+        width: 326
+        height: 793
+      alignment: 9
+      pivot: {x: 0.51643866, y: 0.045425914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12dfea03b39c1690800000000000000
+      internalID: -7630061271480544738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_23
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2
+        width: 421
+        height: 821
+      alignment: 9
+      pivot: {x: 0.48061055, y: 0.034667782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd259eae464594560800000000000000
+      internalID: 7298457463545221852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_24
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 40
+        width: 356
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5759651, y: 0.008022212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f33abfd98483860800000000000000
+      internalID: 7509832222009147163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_25
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 34
+        width: 324
+        height: 795
+      alignment: 9
+      pivot: {x: 0.45807338, y: 0.02619032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987a7399bf54948c0800000000000000
+      internalID: -4014600645914417271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_26
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 33
+        width: 298
+        height: 796
+      alignment: 9
+      pivot: {x: 0.4726071, y: 0.02678541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2fd25ea51893b80800000000000000
+      internalID: -8414552201373027635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_27
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 34
+        width: 269
+        height: 798
+      alignment: 9
+      pivot: {x: 0.4999991, y: 0.014384788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6536c37a84c08c0800000000000000
+      internalID: -4031767683293555038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_28
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 41
+        width: 256
+        height: 796
+      alignment: 9
+      pivot: {x: 0.4922552, y: 0.017572772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a0b714171bdc00800000000000000
+      internalID: 926359523419005257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_29
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 36
+        width: 252
+        height: 797
+      alignment: 9
+      pivot: {x: 0.49606565, y: 0.027098212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c204ed4281b93a0800000000000000
+      internalID: -6657701077510509531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_30
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 40
+        width: 214
+        height: 793
+      alignment: 9
+      pivot: {x: 0.53785205, y: 0.03492809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e093b8275b242f0800000000000000
+      internalID: -990029464501416431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Anim AI v2_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7839
+        height: 1750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f64be625465f19b0800000000000000
+      internalID: -5107268597409167632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
